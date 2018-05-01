@@ -48,8 +48,12 @@ a {color: seashell;
   padding: 10px;
 }
 
-.ourmission {display: block;
+.our_mission {display: block;
   background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-mission-background.jpg);
   width: 1200px;
+}
 
+.our_mission .jaroftea {
+  justify-content: center;
+  align-items: center;
 }
