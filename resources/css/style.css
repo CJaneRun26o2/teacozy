@@ -90,7 +90,7 @@ a {color: seashell;
   display: block;
 }
 
-#teaofthemonth {display: flex;
+#featuredtea {display: flex;
     flex-direction: column;
     justify-content: space-around;
     width: 1000px;
@@ -102,12 +102,12 @@ a {color: seashell;
     margin-right: 100px;
   }
 
-  #teaofthemonth .firstthree {display: flex;
+  #featuredtea .firstthree {display: flex;
     flex-direction: row;
     justify-content: space-between;
   }
 
-  #teaofthemonth .secondgroup {display: flex;
+  #featuredtea .secondgroup {display: flex;
     flex-direction: row;
     justify-content: space-around;
   }
