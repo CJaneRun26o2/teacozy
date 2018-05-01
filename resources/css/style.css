@@ -22,6 +22,7 @@ body {margin: 0;
 .content {display: flex;
     flex-direction: column;
     align-items: center;
+    position: fixed;
     width: 1280px;
     margin: 0;
   }
@@ -57,7 +58,7 @@ a {color: seashell;
 
 .our_mission .jaroftea {
   justify-content: center;
-  align-items: center;
+  align-content: center;
 }
 
 .teaofthemonth {display: flex;
