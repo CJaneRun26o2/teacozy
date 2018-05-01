@@ -52,28 +52,38 @@ a {color: seashell;
   background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-mission-background.jpg);
   width: 1200px;
   height: 700px;
-  align-content: space-around;
+  justify-content: space-around;
+  position: fixed;
 }
 
 .our_mission .jaroftea {
-  justify-content: center;
+  align-items: center;
   width: 100%;
   background: black;
+
 }
 
 .teaofthemonth {display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: space-around;
   }
 
   .teaofthemonth .firstthree {display: flex;
+    flex-direction: row;
     justify-content: space-between;
   }
 
   .teaofthemonth .secondgroup {display: flex;
+    flex-direction: row;
     justify-content: space-between;
   }
 
   .tea {height: 200px;
     width: 300px;
+  }
+
+  h3  {font-size: 22px;
+    color: seashell;
+    font-family: Helvetica;
+    opacity: 0.9;
   }
