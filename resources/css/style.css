@@ -53,14 +53,15 @@ a {color: seashell;
   width: 1200px;
   height: 700px;
   justify-content: space-around;
-  position: fixed;
 }
 
 .our_mission .jaroftea {
   align-items: center;
   width: 100%;
   background: black;
-
+  font-align: center;
+  color: seashell;
+  opacity: 0.9;
 }
 
 .teaofthemonth {display: flex;
