@@ -153,5 +153,18 @@ a {color: seashell;
     justify-content: center;
 }
 
-footer {height: 200px;
+#contactinfo {height: 200px;
+    text-align: center;
+    display: block;
 }
+
+h5  {display: block;
+    text-align: left;
+    height: 21.6px;
+    width: 880.8px;
+    font-weight: bold;
+  }
+
+  footer{text-align: left;
+    padding: 20px;
+  }
