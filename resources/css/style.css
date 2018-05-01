@@ -59,11 +59,15 @@ a {color: seashell;
 }
 
 #mission .jaroftea {
+  padding-top: 70px;
   margin: auto;
   justify-content: center;
   flex-direction: column;
   text-align: center;
   width: 1200px;
+  align-items: center;
+  flex-wrap: wrap;
+  font-size: 22px;
   background: black;
   margin-bottom: 298.4px;
   margin-right: 0px;
