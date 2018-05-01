@@ -152,3 +152,6 @@ a {color: seashell;
     flex-direction: column;
     justify-content: center;
 }
+
+footer {height: 200px;
+}
