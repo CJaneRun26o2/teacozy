@@ -55,6 +55,8 @@ a {color: seashell;
 }
 
 .our_mission .jaroftea {
+  justify-content: center;
+  flex-direction: column;
   align-items: center;
   width: 100%;
   background: black;
