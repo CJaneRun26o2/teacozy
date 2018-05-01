@@ -47,3 +47,9 @@ nav span {display: inline-block;
 a {color: seashell;
   padding: 10px;
 }
+
+.ourmission {display: block;
+  background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-mission-background.jpg);
+  width: 1200px;
+
+}
