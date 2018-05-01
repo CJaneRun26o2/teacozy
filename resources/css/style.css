@@ -67,6 +67,7 @@ a {color: seashell;
 .teaofthemonth {display: flex;
     flex-direction: column;
     justify-content: space-around;
+    width: 1000px;
   }
 
   .teaofthemonth .firstthree {display: flex;
