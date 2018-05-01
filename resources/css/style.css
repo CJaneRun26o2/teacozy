@@ -109,7 +109,7 @@ a {color: seashell;
 
   #teaofthemonth .secondgroup {display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: space-around;
   }
 
   .tea {height: 200px;
